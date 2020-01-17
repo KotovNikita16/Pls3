@@ -1,0 +1,15 @@
+﻿[package]
+
+name = "lab3"
+version = "1.0.0"
+authors = [ "Kotov N.D." ]
+
+[[bin]]
+
+name = "lab3"
+path = "src/lab3.rs"
+
+[dependencies]
+
+rand = "0.7"
+threadpool = "1.7"
