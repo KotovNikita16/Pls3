@@ -7,7 +7,7 @@ authors = [ "Kotov N.D." ]
 [[bin]]
 
 name = "lab3"
-path = "lab3.rs"
+path = "src/lab3.rs"
 
 [dependencies]
 
